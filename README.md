@@ -12,6 +12,6 @@ A demo project showing **Line, Bar, and Combined charts** using
 
 ## 🚀 Live Demo
 
-👉 [View Demo]([https://your-demo-link.com](https://react-apex-chart.vercel.app/))  
+👉 [View Demo](https://react-apex-chart.vercel.app/))  
 
 ---
